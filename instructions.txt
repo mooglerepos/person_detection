@@ -1,0 +1,10 @@
+Hello 
+I have managed to run the program in local using flask.
+I have given all the files is this github repository.
+Sir, you should have opencv, imutils, flask, vagera.
+Then just run the command "python app.py"
+
+First the program will find the camera and if camera is of(False)then it will play the given video file.
+
+I have already given the file named "768x576.avi".
+
